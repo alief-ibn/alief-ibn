@@ -1,0 +1,43 @@
+body {
+    background: url(bg.png);
+    background-size: 200%;
+}
+
+.text-1 {
+  background-image: linear-gradient(to right, red, yellow);
+  text-align: center;
+  font-family: Monospace;
+  color: linear-gradient(to ringht, blue, gold);
+  background-size: 150%;
+  color: #00F6FF;
+}
+
+.text-2 {
+    color: #00FEFF;
+    background: linear-gardient(#FF00E1,#001CFF);
+}
+
+#demo {
+    color: #FF0018;
+    font-family: Comic Sans MS;
+    background-image: linear-gradient(to bottom, #00FF06, #FFFFFF);
+    border: 20px;
+    border-radius: 15%;
+    border-color: #FFFFFF;
+    text-align: center;
+    display: text;
+    margin-left: auto;
+    margin-bottom: 50%;
+    margin-right: auto;
+}
+
+#isi {
+    background: linear-gradient(to right, #FF00FD, #FFFFFF);
+    font-family: Comic Sans MS;
+}
+
+#mulai {
+    display: block;
+    margin-left: 40%;
+    margin-top: auto;
+}
